@@ -1,2 +1,2 @@
 # templatePy
-A template directory structure for developing python libraries.
+A template directory structure for developing python packages.
